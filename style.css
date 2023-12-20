@@ -285,10 +285,10 @@
 }
 
 @media (max-width: 768px) {
-  .conteiner,
+  /* .conteiner,
   .div-conteiner {
     font-family: system-ui;
-  }
+  } */
   .div-conteiner {
     width: 70%;
     margin: 0 auto;

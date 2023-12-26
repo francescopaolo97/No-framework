@@ -343,7 +343,7 @@
   }
   .hard-skill {
     margin: 3vh 37%;
-    width: 100%;
+    text-wrap: nowrap;
   }
   .mail {
     font-size: 10px;

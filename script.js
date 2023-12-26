@@ -1,5 +1,6 @@
 let item = document.querySelector(".icon-hamburger");
 item.addEventListener("click", function () {
+  /** il metodo classList.toggle alterna tra l’aggiunta e la rimozione di una classe CSS  */
   document.body.classList.toggle("menu-open");
 });
 
